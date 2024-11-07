@@ -10,42 +10,38 @@
 
 2. Поменял в examp.yml Значение переменной `some_fact` с 12 на all default fact 
 
-![Задание 2](images/2.png)
+![Задание 2](images/1.png)
 
 3. Подготовленное окружение:
 
-![Задание 3](images/3.png)
+![Задание 3](images/2.png)
 
-4. Запуск playbook из окружения на окружении из `prod.yml`
+4. Изменение значение переменной:
 
-![Задание 4](images/4.png)
+![Задание 4](images/3.png)
 
-5. Изменение значение переменной:
+5. Повтор запуска playbook из окружения на окружении из `prod.yml`:
 
-![Задание 5](images/5.png)
+![Задание 5](images/4.png)
 
-6. Повтор запуска playbook:
+6. Шифрование переменных с помощью `ansible-vault`
 
-![Задание 6](images/6.png)
+![Задание 6](images/5.png)
 
-7. Шифрование переменных с помощью `ansible-vault`
+7. Повтор запуска playbook:
 
-![Задание 7](images/7.png)
+![Задание 7](images/6.png)
 
-8. Повтор запуска playbook:
-
-![Задание 8](images/8.png)
-
-9. `ansible-doc -t connection -l`
+8. `ansible-doc -t connection -l`
 Подойдет Local
 
-![Задание 9](images/9.png)
+![Задание 8](images/7.png)
 
-10. Обновленный prod.yml
+9. Обновленный prod.yml
 
-![Задание 10](images/10.png)
+![Задание 9](images/8.png)
 
-11. Повтор запуска playbook:
+10. Повтор запуска playbook:
 
-![Задание 11](images/11.png)
+![Задание 11](images/9.png)
 
